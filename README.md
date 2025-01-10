@@ -1,0 +1,1 @@
+# photospotter-media-service
